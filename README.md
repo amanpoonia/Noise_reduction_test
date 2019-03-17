@@ -11,6 +11,12 @@ II)Conventional definition for outlier is not applicable here as too much data i
   
 III)Outliers are removed and final data(noise reduced data) is again studied.
 
+Files in repository:
+1. Readme
+2. Function
+3. Noise reduction
+4. Results
+
 #AMAN POONIA
 #apoonia@iitk.ac.in
 #poonia.aman27691@gmail.com
